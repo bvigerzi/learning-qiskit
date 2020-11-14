@@ -38,8 +38,12 @@ NotFoundError: no lapack/blas resources found
 sudo apt-get install gfortran libopenblas-dev liblapack-dev
 ```
 
+<stdin>:1: UserWarning: Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure.
+
+```bash
+sudo apt-get install python3-tk
+```
+
 ### Step Four
 
 You are now ready to begin!
-
-## What is Qiskit
